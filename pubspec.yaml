@@ -1,0 +1,17 @@
+name: dart_quiz
+description: A simple command-line application that allows a user to take a practice exam of questions hosted on an external server.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^1.0.0
+dependencies: 
+  dartdoc: ^3.1.0
+  http: ^0.13.3
